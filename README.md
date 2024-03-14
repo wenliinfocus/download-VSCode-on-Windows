@@ -19,6 +19,7 @@ download Visual Studio Code from the main website: https://code.visualstudio.com
 3. A tasks.json file will appear on screen, as well on the left side of the application
 4. You may close the tab of the j.son as the aplication is now connected to the GCC file
 
+
 ### Check through the Command Prompt application
 1. Open up Command Prompt application by searching on Window Search feature
 2. enter "g++ --version" and click enter
